@@ -11,3 +11,8 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Quadros intermediarios e copias de seguranca do Blender
+AP2/frames/
+*.blend1
+AP2/versao_anterior/
