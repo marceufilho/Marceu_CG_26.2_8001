@@ -4,7 +4,7 @@
 **Matrícula:** 202051772191  
 **Curso / Turma:** Engenharia de software — 8001  
 **Software:** Blender 4.5 LTS (Cycles), com scripts em Python  
-**Base:** cópia da cena da [AC05](../AC5/README.md), que veio da [AC04](../AC4/README.md) e da [AP1](../AP1/README.md). Nenhuma etapa anterior foi sobrescrita.
+**Base:** cópia da cena da [AC05](../AC5/README.md), que veio da [AC04](../AC4/README.md) e da [AP1](../AP1/README.md). 
 
 ## Entregáveis
 
