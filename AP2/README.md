@@ -91,7 +91,6 @@ As luzes principal e de preenchimento vêm da AC04, com a potência reajustada. 
 
 **Render:** Cycles na GPU (OptiX, RTX 4090), 128 amostras com denoise, motion blur (obturador 0,4), 1920×1080, 24 fps, frames 1–360, AgX com o look *Medium High Contrast* e exposição +0,3. A câmera tem 50 mm, profundidade de campo em f/2,8 com foco no `CAM_Alvo`. No compositor, um nó **Glare** (Bloom) faz o brilho da assinatura e da faixa de cor, e uma vinheta suave (Ellipse Mask → Blur → Mix Multiply, fator 0,35) escurece um pouco os cantos. O render saiu como sequência de PNG e o vídeo foi montado no sequenciador do Blender em MP4 / H.264.
 
-O plano da AP1 previa Eevee. Troquei para Cycles porque a máquina tem GPU adequada e o traçado de caminhos dá sombras suaves e reflexos corretos nos metais.
 
 ## 5. Materiais e texturas da AC05
 
